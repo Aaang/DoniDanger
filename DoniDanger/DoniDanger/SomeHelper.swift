@@ -11,3 +11,7 @@ import Foundation
 func addToOne(toAdd: Int) -> Int {
     return 1 + toAdd
 }
+
+func multiplyWithOne(multiplyBy: Int) -> Int {
+    return 1 * multiplyBy
+}
