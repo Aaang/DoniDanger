@@ -15,6 +15,8 @@
 		3BB80A771DE6D98900A3BEA1 /* DoniDangerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB80A761DE6D98900A3BEA1 /* DoniDangerTests.swift */; };
 		3BB80A821DE6D9AC00A3BEA1 /* SomeHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB80A811DE6D9AC00A3BEA1 /* SomeHelper.swift */; };
 		3BB80A831DE6D9AC00A3BEA1 /* SomeHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB80A811DE6D9AC00A3BEA1 /* SomeHelper.swift */; };
+		3BB80A851DE6E54500A3BEA1 /* TooLongHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB80A841DE6E54500A3BEA1 /* TooLongHelper.swift */; };
+		3BB80A861DE6E54500A3BEA1 /* TooLongHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB80A841DE6E54500A3BEA1 /* TooLongHelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,6 +41,7 @@
 		3BB80A761DE6D98900A3BEA1 /* DoniDangerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoniDangerTests.swift; sourceTree = "<group>"; };
 		3BB80A781DE6D98900A3BEA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3BB80A811DE6D9AC00A3BEA1 /* SomeHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SomeHelper.swift; sourceTree = "<group>"; };
+		3BB80A841DE6E54500A3BEA1 /* TooLongHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TooLongHelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,7 @@
 				3BB80A6A1DE6D98900A3BEA1 /* LaunchScreen.storyboard */,
 				3BB80A6D1DE6D98900A3BEA1 /* Info.plist */,
 				3BB80A811DE6D9AC00A3BEA1 /* SomeHelper.swift */,
+				3BB80A841DE6E54500A3BEA1 /* TooLongHelper.swift */,
 			);
 			path = DoniDanger;
 			sourceTree = "<group>";
@@ -205,6 +209,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BB80A851DE6E54500A3BEA1 /* TooLongHelper.swift in Sources */,
 				3BB80A641DE6D98900A3BEA1 /* ViewController.swift in Sources */,
 				3BB80A821DE6D9AC00A3BEA1 /* SomeHelper.swift in Sources */,
 				3BB80A621DE6D98900A3BEA1 /* AppDelegate.swift in Sources */,
@@ -215,6 +220,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BB80A861DE6E54500A3BEA1 /* TooLongHelper.swift in Sources */,
 				3BB80A771DE6D98900A3BEA1 /* DoniDangerTests.swift in Sources */,
 				3BB80A831DE6D9AC00A3BEA1 /* SomeHelper.swift in Sources */,
 			);
